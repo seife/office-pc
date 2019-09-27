@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1,70s Classics
+http://streaming211.radionomy.com:80/70sClassics
+
+#EXTINF:-1,80s Online Radio
+http://149.56.195.94:8404/stream
+
+#EXTINF:-1,Oldies Internet Radio
+http://149.56.195.94:8419/autodj
+
+#EXTINF:-1,Radio BOB! 192kbit
+http://bob.hoerradar.de/radiobob-national-mp3-hq
+
+#EXTINF:-1,SWR1 BW
+http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3
+
+#EXTINF:-1,Fritz
+http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
+
+#EXTINF:-1,radioeins vom rbb live hören - www.radioeins.de
+http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3
+
+#EXTINF:-1,Deutschlandfunk
+http://st01.dlf.de/dlf/01/104/ogg/stream.ogg
+
+#EXTINF:-1,DLF Kultur
+http://st02.dlf.de/dlf/02/104/ogg/stream.ogg
+
+#EXTINF:-1,DLF Nova
+http://st03.dlf.de/dlf/03/104/ogg/stream.ogg
+
+#EXTINF:-1,80s80s
+http://80s80s.hoerradar.de/80s80s-mweb-mp3-hq
+
+#EXTINF:-1,Best Net Radio 80s90s Hits
+http://bigrradio.cdnstream1.com/5143_128
+
+#EXTINF:-1,Best Net Radio 70s80s Hits
+http://bigrradio.cdnstream1.com/5141_128
+
+#EXTINF:-1,Best Net Radio 80s Metal
+http://bigrradio.cdnstream1.com/5146_128
+
+#EXTINF:-1,1.FM 80s&90S
+http://www.surfmusik.de/m3u/1-fm-80s-90s,8570.m3u
+
+#EXTINF:-1,Best of 80s
+http://bestof80s.stream.laut.fm/best_of_80s
+
+#EXTINF:-1,Best of 90s
+http://stream.laut.fm/best_of_90s
+
+#EXTINF:-1,1A 90er Hits
+https://stream.1a-webradio.de/saw-90er/
