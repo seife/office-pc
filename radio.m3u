@@ -1,13 +1,17 @@
 #EXTM3U
 
+# https://www.70ps.com/
+# curl -s https://play.broadcasteralliance.org/70sclassics|awk '/^master =/{gsub(/;/,"");print $3}'|jq '"http://"+.host+":"+(.port|tostring)+"/"+.id'
 #EXTINF:-1,70s Classics
-http://streaming211.radionomy.com:80/70sClassics
+http://lynx.prostreaming.net:8008/1
 
+# http://80sonlineradio.com/listen.pls
 #EXTINF:-1,80s Online Radio
-http://149.56.195.94:8404/stream
+http://162.244.80.106:11249/stream
 
+# http://oldiesinternetradio.com/listen.pls
 #EXTINF:-1,Oldies Internet Radio
-http://149.56.195.94:8419/autodj
+http://162.244.80.106:11131/stream
 
 #EXTINF:-1,Radio BOB! 192kbit
 http://bob.hoerradar.de/radiobob-national-mp3-hq
@@ -51,5 +55,6 @@ http://bestof80s.stream.laut.fm/best_of_80s
 #EXTINF:-1,Best of 90s
 http://stream.laut.fm/best_of_90s
 
+# curl -s https://www.1a-webradio.de/90er|awk -F"'" '/"audioplayer1/{print $2}'
 #EXTINF:-1,1A 90er Hits
-https://stream.1a-webradio.de/saw-90er/
+https://stream.1a-webradio.de/saw-90er/mp3-128/stream.mp3
