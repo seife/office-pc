@@ -7,11 +7,11 @@ http://lynx.prostreaming.net:8008/1
 
 # http://80sonlineradio.com/listen.pls
 #EXTINF:-1,80s Online Radio
-http://162.244.80.106:11249/stream
+http://80sonlineradio.com/listen.pls
 
 # http://oldiesinternetradio.com/listen.pls
 #EXTINF:-1,Oldies Internet Radio
-http://162.244.80.106:11131/stream
+http://oldiesinternetradio.com/listen.pls
 
 #EXTINF:-1,Radio BOB! 192kbit
 http://bob.hoerradar.de/radiobob-national-mp3-hq
